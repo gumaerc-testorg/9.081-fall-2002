@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 64924945-15f9-d3cc-e059-34c06f6a0973
 resourcetype: Document
 title: 'Lecture 5: Episodic and PrimarycMemory'
 uid: f4447867-c27a-b7b3-0c8e-9cf02c0bf254

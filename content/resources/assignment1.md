@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: fa86bc1e-7919-73d0-a717-2825ecb3b00d
 resourcetype: Document
 title: 'Assignment 1: Research Paper Presentation'
 uid: b3b26a92-2751-8295-38df-f5c2475626a1

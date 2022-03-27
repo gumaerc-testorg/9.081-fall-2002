@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: fa86bc1e-7919-73d0-a717-2825ecb3b00d
 resourcetype: Document
 title: 'Assignment 2: Experimental Research Proposal'
 uid: bd6a565d-601e-e99e-a29e-443730fa04fc
