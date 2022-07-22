@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides the two major assignments of the course, including
+  a research paper presentation and an experimental research proposal.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: fa86bc1e-7919-73d0-a717-2825ecb3b00d
 ---

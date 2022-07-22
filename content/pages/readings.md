@@ -1,5 +1,11 @@
 ---
 content_type: page
+description: This section provides details on the course textbook and assigned readings.
+  Where available, journal article abstracts from PubMed (an online database providing
+  access to citations from biomedical literature) are included.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: cf782b1b-8785-993f-ae51-e4cc2c21b38c
 ---
