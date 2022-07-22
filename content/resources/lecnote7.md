@@ -5,6 +5,7 @@ file: /courses/9-081-human-memory-and-learning-fall-2002/62160c661b7518db7acd03a
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Lecture 7
 uid: 62160c66-1b75-18db-7acd-03a13f89761b
 ---
 Lecture outline on human memory and learning.
-

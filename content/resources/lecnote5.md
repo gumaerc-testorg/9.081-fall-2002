@@ -6,6 +6,7 @@ file: /courses/9-081-human-memory-and-learning-fall-2002/f4447867c27ab7b30c8e9cf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,5 +16,3 @@ title: 'Lecture 5: Episodic and PrimarycMemory'
 uid: f4447867-c27a-b7b3-0c8e-9cf02c0bf254
 ---
 Lecture outline on episodic memory, primary memory, and the principles of encoding.
-
-

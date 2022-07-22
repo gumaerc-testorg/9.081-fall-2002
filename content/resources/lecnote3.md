@@ -6,6 +6,7 @@ file: /courses/9-081-human-memory-and-learning-fall-2002/9927c760ca38db1e8ffb850
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 'Lecture 3: Neuroimaging and Cognitive Control'
 uid: 9927c760-ca38-db1e-8ffb-85003eda095a
 ---
 Lecture outline on visual-spacial working memory, neuroimaging, and cognitive control.
-
