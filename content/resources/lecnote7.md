@@ -2,6 +2,7 @@
 content_type: resource
 description: Lecture outline on human memory and learning.
 file: /courses/9-081-human-memory-and-learning-fall-2002/62160c661b7518db7acd03a13f89761b_lecnote7.pdf
+file_size: 74079
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
