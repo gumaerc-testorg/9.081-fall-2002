@@ -5,6 +5,7 @@ description: 'Lecture outline on nondeclarative memory: priming, priming phenome
   bases of priming, priming for novel stimuli, implicit/explicit interactions, nondeclarative
   memory: skill learning.'
 file: /courses/9-081-human-memory-and-learning-fall-2002/0e9fcc041f4cd8bf2d35763b0dd65cd8_lecnote9.pdf
+file_size: 198971
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
