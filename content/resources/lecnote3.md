@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture outline on visual-spacial working memory, neuroimaging, and cognitive
   control.
-file: /courses/9-081-human-memory-and-learning-fall-2002/9927c760ca38db1e8ffb85003eda095a_lecnote3.pdf
+file: /ol-ocw-studio-app/courses/9-081-human-memory-and-learning-fall-2002/9927c760ca38db1e8ffb85003eda095a_lecnote3.pdf
 file_size: 92689
 file_type: application/pdf
 learning_resource_types:

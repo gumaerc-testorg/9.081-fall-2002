@@ -2,7 +2,7 @@
 content_type: resource
 description: Assignment to create a research proposal to advance a novel neuroimaging
   investigation aimed to address an aspect of memory considered during the course.
-file: /courses/9-081-human-memory-and-learning-fall-2002/bd6a565d601ee99ea29e443730fa04fc_assignment2.pdf
+file: /ol-ocw-studio-app/courses/9-081-human-memory-and-learning-fall-2002/bd6a565d601ee99ea29e443730fa04fc_assignment2.pdf
 file_size: 56884
 file_type: application/pdf
 learning_resource_types:
