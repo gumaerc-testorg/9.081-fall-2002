@@ -2,7 +2,7 @@
 content_type: resource
 description: "Lecture outline on episodic memory, primary memory, and the principles\
   \ of encoding.\r\n"
-file: /ol-ocw-studio-app/courses/9-081-human-memory-and-learning-fall-2002/f4447867c27ab7b30c8e9cf02c0bf254_lecnote5.pdf
+file: /courses/9-081-human-memory-and-learning-fall-2002/f4447867c27ab7b30c8e9cf02c0bf254_lecnote5.pdf
 file_size: 95337
 file_type: application/pdf
 learning_resource_types:
